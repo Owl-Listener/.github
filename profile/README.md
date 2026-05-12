@@ -7,9 +7,7 @@
 
 # Owl-Listener
 
-Design × AI 
-
-This is where designers learn to work with agentic systems: how to shape them, evaluate them, direct them, and hold them accountable. Open source, inclusive by default, built in public 
+Design × AI resources for the people designing and building agentic experiences — open source, inclusive by default, built in public.
 
 ---
 
@@ -34,8 +32,6 @@ This is where designers learn to work with agentic systems: how to shape them, e
 
 ## What this is
 
-Owl-Listener is [MC Dean](https://marieclairedean.substack.com/). The work here is about what happens when design meets a new kind of intelligence — not at the surface, in the pixels, but deeper: in the relationship. How does a human trust something they can't fully predict? How do you design for a system that deliberates, refuses, gets it wrong? What does it mean to direct something that might know more than you do?
-
-These are design questions. 
+Owl-Listener is [MC Dean](https://marieclairedean.substack.com/). The work here is about what happens when design meets AI — not the aesthetics of AI interfaces, but the discipline of designing the relationship between a human and a new kind of intelligence.
 
 Everything is MIT or CC-licensed. Fork it, adapt it, ship it.
