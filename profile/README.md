@@ -19,6 +19,8 @@ Design × AI resources for the people designing and building agentic experiences
 
 **Using AI more effectively as a designer**
 
+→ [ai-design-field-guide](https://github.com/Owl-Listener/ai-design-field-guide) — 46 ways to work with AI design tools. The thinking applies regardless of which tool you have open.
+
 → [designer-skills](https://github.com/Owl-Listener/designer-skills) — 87 agentic skills and 27 commands across 8 plugins for Claude Code and Gemini CLI. Research, systems, UI, interaction, and delivery.
 
 → [ai-design-skills](https://github.com/Owl-Listener/ai-design-skills) — 44 skills for designing AI products specifically: alignment reasoning, evaluation, agent orchestration, prompt architecture.
